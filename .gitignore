@@ -49,6 +49,7 @@ htmlcov/
 *.xlsx
 *.db
 *.sqlite
+*.json
 
 # Logs
 *.log
