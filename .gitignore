@@ -16,6 +16,18 @@ __pycache__/
 # macOS system files
 .DS_Store
 
+# ── Mac ──────────────────────────────
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# ── Windows ──────────────────────────
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
 # Python virtual environments
 venv/
 .venv
