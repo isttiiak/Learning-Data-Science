@@ -56,7 +56,7 @@ htmlcov/
 .idea/
 
 # Data files
-*.csv
+# *.csv
 *.tsv
 *.xls
 *.xlsx
