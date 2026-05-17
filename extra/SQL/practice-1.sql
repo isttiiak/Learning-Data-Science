@@ -180,18 +180,4 @@ truncate table student;
 */
 
 
-
-/*
-SQL JOINS:
-==================
-INNER JOIN:
-syntax:
-SELECT *
-FROM tableA
-INNER JOIN tableB
-ON tableA.column1 = tableB.column1
-=======================
-LEFT JOIN:
-RIGHT JOIN:
-FULL JOIN:
-*/
+select * from student;
