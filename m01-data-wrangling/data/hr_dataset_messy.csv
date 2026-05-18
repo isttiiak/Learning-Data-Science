@@ -1,0 +1,237 @@
+emp_id,name,department,designation,age,gender,city,education,experience_years,salary,performance_score,last_promotion_year,remote_work_days,training_hours,overtime_hours,project_count,attrition,joining_date
+EMP0168,Employee_168,Finance,Finance Manager,31,Male,Dhaka,MSc,9.0,114800,3.5,2022.0,4,31.0,20.0,6,No,10/11/2021
+EMP0100,Employee_100,Engineering,Senior Engineer,36,Male,Sylhet,MSc,14.0,BDT 80600,1.9,2021.0,0,46.0,6.0,11,Yes,2019-01-25
+EMP0128,Employee_128,Sales,Sales Manager,43,Female,Dhaka,MSc,19.0,89600,2.8,2023.0,0,75.0,20.0,4,No,20/03/2020
+EMP0016,Employee_016,HR,HR Executive,43,Male,Rajshahi,MSc,23.0,48700,4.1,2020.0,4,48.0,21.0,8,No,2015-08-14
+EMP0014,Employee_014,HR,HR Director,30,Male,Dhaka,MSc,6.0,100500,3.6,2019.0,4,53.0,21.0,4,No,2015-07-15
+EMP0200,Employee_200,Sales,Sales Executive,48,Male,Khulna,,26.0,61400,,2020.0,0,16.0,10.0,2,Yes,2023-03-05
+EMP0087,Employee_087,Eng.,Junior Engineer,33,Female,Sylhet,PhD,11.0,49800,5.0,2019.0,5,58.0,24.0,5,No,2018-07-14
+EMP0012,Employee_012,Finance,Senior Analyst,38,Female,Rajshahi,BSc,14.0,77100,2.9,2020.0,4,64.0,5.0,10,No,2015-06-15
+EMP0038,Employee_038,Data Science,Senior DS,39,Female,Rajshahi ,BSc,17.0,95800,3.5,2022.0,2,47.0,34.0,3,No,2016-07-09
+EMP0145,Employee_145,Sales,Sales Manager,45,Female,Rajshahi,,25.0,,2.8,2023.0,2,28.0,16.0,4,No,2020-11-30
+EMP0123,Employee_123,Data Science,Data Analyst,33,Female,Khulna,BSc,9.0,9999999,3.2,2023.0,0,26.0,36.0,3,Yes,2020-01-05
+EMP0108,Employee_108,Sales,Sales Manager,48,Female,Dhaka,,28.0,,3.7,2023.0,4,,16.0,10,Yes,2019-05-25
+EMP0160,Employee_160,Finance,Analyst,44,Male,Sylhet,BSc,24.0,61200,3.4,2023.0,1,72.0,16.0,2,Yes,2021-07-13
+EMP0007,Employee_007,Finance,Analyst,48,Male,  Sylhet  ,MSc,28.0,63500,2.8,2022.0,5,69.0,2.0,9,No,2015-04-01
+EMP0154,Employee_154,Engineering,Engineering Manager,31,Female,Khulna,PhD,9.0,135300,3.0,2023.0,3,40.0,34.0,7,Yes,2021-04-14
+EMP0169,Employee_169,Engineering,Engineering Manager,41,Female,Rajshahi,MSc,20.0,148800,3.3,2022.0,5,36.0,27.0,5,No,2021-11-25
+EMP0003,Employee_003,Finance,Analyst,34,Male,Chittagong,BSc,11.0,43500,3.9,2019.0,2,5.0,26.0,1,No,2015-01-31
+EMP0143,Employee_143,Sales,Sales Executive,29,Female,Khulna,BSc,7.0,37100,3.3,2023.0,1,45.0,31.0,4,Yes,2020-10-31
+EMP0161,Employee_161,Finance,Analyst,35,Female,  Khulna  ,MSc,13.0,47900,4.4,2023.0,1,17.0,8.0,3,No,2021-07-28
+EMP0177,Employee_177,Finance,Analyst,48,FEMALE,Rajshahi,BSc,27.0,,2.7,2019.0,1,7.0,22.0,2,Yes,25/03/2022
+EMP0209,Employee_209,Sales,Sales Manager,34,Female,Khulna,BSc,12.0,72300,,2019.0,3,25.0,7.0,5,No,2023-07-18
+EMP0129,Employee_129,Data Science,DS Lead,51,F,Dhaka,BSc,30.0,141500,2.9,2023.0,2,36.0,37.0,10,No,2020-04-04
+EMP0162,Employee_162,Engineering,Engineering Manager,49,Male,Dhaka,MSc,25.0,152200,2.4,2023.0,3,53.0,0.0,3,No,2021-08-12
+EMP0211,Employee_211,Finance,Analyst,32,Male,Khulna,BSc,9.0,42000,3.7,2019.0,4,26.0,37.0,10,Yes,2023-08-17
+EMP0185,Employee_185,HR,HR Manager,42,Female,Chittagong,BSc,22.0,80400,3.4,2022.0,3,26.0,7.0,1,Yes,2022-07-23
+EMP0173,Employee_173,HR,HR Director,50,Female,Rajshahi,BSc,27.0,,2.7,2022.0,2,54.0,21.0,7,No,24/01/2022
+EMP0013,Employee_013,data science,Senior DS,47,Female,Khulna,BSc,26.0,,3.8,2022.0,1,,34.0,5,No,2015-06-30
+EMP0046,Employee_046,Engineering,Engineering Manager,38,Male,Sylhet,BSc,18.0,147300,1.8,2022.0,4,19.0,24.0,1,No,2016-11-06
+EMP0184,Employee_184,HR,HR Manager,47,Male,Chittagong,BSc,27.0,83500,,2020.0,5,12.0,36.0,6,No,2022-07-08
+EMP0006,Employee_006,HR,HR Executive,48,Female,Sylhet,MSc,25.0,58100,2.3,2021.0,4,19.0,10.0,9,No,2015-03-17
+EMP0070,Employee_070,Sales,Sales Manager,46,Male,Dhaka,MSc,25.0,84600,2.6,2021.0,5,8.0,12.0,6,No,2017-11-01
+EMP0126,Employee_126,Sales,Sales Manager,26,Female,Chittagong,BSc,6.0,BDT 66000,,2020.0,1,19.0,1.0,4,No,2020-02-19
+EMP0127,Employee_127,Data Science,Senior DS,47,Male,Sylhet,,26.0,111100,3.3,2020.0,4,39.0,26.0,4,Yes,2020-03-05
+EMP0078,Employee_078,Sales,Regional Head,46,Male,Dhaka,,23.0,134000,4.0,2020.0,4,67.0,28.0,7,No,2018-03-01
+EMP0150,Employee_150,Sales,Sales Manager,35,M,Khulna,BSc,14.0,82400,4.4,2020.0,4,46.0,3.0,3,No,2021-02-13
+EMP0208,Employee_208,Finance,Senior Analyst,37,Male,Dhaka,,15.0,74400,4.0,2020.0,2,34.0,31.0,3,No,2023-07-03
+EMP0017,Employee_017,Sales,Sales Executive,23,Female,Dhaka,BSc,2.0,27900,2.3,2022.0,3,15.0,36.0,2,Yes,2015-08-29
+EMP0191,Employee_191,Human Resources,HR Manager,38,Male,Sylhet,BSc,17.0,67300,3.4,2020.0,4,51.0,34.0,6,Yes,2022-10-21
+EMP0002,Employee_002,Data Science,Data Analyst,31,Male,Dhaka,BSc,7.0,57300,4.6,2021.0,1,79.0,1.0,3,No,2015-01-16
+EMP0053,Employee_053,Sales,Sales Executive,48,Female,Khulna,BSc,28.0,,2.8,2021.0,3,25.0,2.0,7,No,2017-02-19
+EMP0109,Employee_109,Finance,Analyst,30,Male,Sylhet,PhD,6.0,42800,3.6,2023.0,3,23.0,36.0,10,No,2019-06-09
+EMP0050,Employee_050,Sales,Sales Manager,23,Female,Khulna,BSc,3.0,62100,,2019.0,3,55.0,13.0,5,No,2017-01-05
+EMP0153,Employee_153,Engineering,Junior Engineer,25,female,Dhaka,BSc,2.0,32100,2.9,2020.0,1,40.0,39.0,10,No,2021-03-30
+EMP0167,Employee_167,Sales,Regional Head,51,Male,Rajshahi,MSc,29.0,150400,,2022.0,5,48.0,39.0,10,No,26/10/2021
+EMP0196,Employee_196,Finance,Analyst,32,female,Rajshahi,PhD,9.0,46200,2.6,2020.0,1,20.0,20.0,5,No,2023-01-04
+EMP0096,Employee_096,Finance,Senior Analyst,34,Female,Dhaka ,BSc,14.0,74300,2.8,2022.0,4,30.0,34.0,9,No,2018-11-26
+EMP0079,Employee_079,Sales,Regional Head,34,Male,Khulna,BSc,11.0,BDT 121200,2.4,2021.0,4,60.0,1.0,7,No,16/03/2018
+EMP0205,Employee_205,Sales,Sales Executive,33,Female,Rajshahi,BSc,12.0,42700,5.0,2021.0,4,27.0,4.0,6,No,2023-05-19
+EMP0102,Employee_102,Engineering,Engineering Manager,51,Male,Rajshahi,MSc,27.0,,3.0,2023.0,5,28.0,15.0,2,No,2019-02-24
+EMP0090,Employee_090,Finance,Finance Manager,25,Female,Chittagong,BSc,1.0,98800,2.6,,4,49.0,30.0,4,Yes,28/08/2018
+EMP0130,Employee_130,Data Science,Data Analyst,47,Male,Khulna,PhD,27.0,85100,3.0,2020.0,5,15.0,14.0,8,Yes,2020-04-19
+EMP0062,Employee_062,Sales,Sales Executive,41,Female,Rajshahi,BSc,18.0,48700,,2021.0,5,39.0,3.0,2,No,2017-07-04
+EMP0137,Employee_137,Sales,Sales Manager,39,Male,Dhaka,BSc,16.0,80600,4.4,2019.0,2,39.0,12.0,6,No,2020-08-02
+EMP0148,Employee_148,Finance,Senior Analyst,39,Female,Khulna,BSc,15.0,80100,,2023.0,0,23.0,20.0,7,No,2021-01-14
+EMP0207,Employee_207,DataScience,DS Lead,40,Female,Sylhet,BSc,18.0,126500,,2021.0,0,69.0,29.0,11,Yes,2023-06-18
+EMP0069,Employee_069,Sales,Sales Manager,38,Female,Rajshahi,MSc,16.0,76900,,2023.0,1,53.0,27.0,8,No,2017-10-17
+EMP0056,Employee_056,Engineering,Engineering Manager,27,Male,Dhaka,MSc,7.0,128200,2.4,2019.0,1,38.0,24.0,6,No,05/04/2017
+EMP0199,Employee_199,Data Science,Data Analyst,36,Male,Chittagong,BSc,14.0,76500,3.2,2022.0,0,20.0,35.0,10,No,18/02/2023
+EMP0214,Employee_214,hr,HR Manager,39,Female,Dhaka,MSc,17.0,78700,4.1,2022.0,3,37.0,16.0,3,No,2023-10-01
+EMP0141,Employee_141,Engineering,Engineering Manager,40,Male,Sylhet,MSc,16.0,138400,3.4,2019.0,3,46.0,17.0,10,No,2020-10-01
+EMP0060,Employee_060,HR,HR Director,32,Female,Khulna,,11.0,110500,3.6,2023.0,4,33.0,20.0,6,No,2017-06-04
+EMP0113,Employee_113,Data Science,DS Lead,48,Female,Dhaka,BSc,26.0,130600,3.1,2022.0,3,22.0,37.0,9,No,2019-08-08
+EMP0035,Employee_035,Finance,Senior Analyst,50,Male,Rajshahi,PhD,30.0,,3.4,2020.0,5,41.0,1.0,4,Yes,2016-05-25
+EMP0068,Employee_068,HR,HR Director,26,Male,Rajshahi,BSc,2.0,99100,3.2,2020.0,3,6.0,31.0,7,No,2017-10-02
+EMP0009,Employee_009,Finance,Finance Manager,37,Female,Sylhet,,17.0,120100,2.2,2021.0,3,19.0,25.0,10,Yes,2015-05-01
+EMP0193,Employee_193,Sales,Sales Executive,29,Male,Dhaka,BSc,9.0,40100,3.7,2022.0,1,66.0,16.0,7,No,2022-11-20
+EMP0103,Employee_103,Sales,Sales Executive,41,Male,Chittagong,BSc,18.0,52800,,2020.0,3,53.0,32.0,9,No,2019-03-11
+EMP0219,Employee_219,ENGINEERING,Junior Engineer,35,Male,Chittagong,BSc,14.0,47600,4.3,2021.0,1,27.0,8.0,5,No,2023-12-15
+EMP0054,Employee_054,Data Science,DS Lead,32,Female,  Sylhet  ,PhD,10.0,114500,,2021.0,5,17.0,34.0,7,Yes,2017-03-06
+EMP0085,Employee_085,Engineering,Tech Lead,51,Male,Rajshahi,BSc,27.0,124900,2.7,2019.0,1,72.0,33.0,8,No,2018-06-14
+EMP0121,Employee_121,HR,HR Manager,40,Male,Dhaka,BSc,16.0,74900,3.2,2021.0,5,37.0,13.0,6,No,06/12/2019
+EMP0192,Employee_192,Data Science,Senior DS,47,Female,Dhaka,BSc,26.0,,3.5,2022.0,0,59.0,23.0,11,No,2022-11-05
+EMP0036,Employee_036,Data Science,DS Lead,27,Female,Sylhet,BSc,3.0,113000,3.1,2020.0,1,48.0,26.0,4,No,2016-06-09
+EMP0022,Employee_022,Data Science,Junior DS,44,Male,Khulna,,23.0,66500,2.2,2023.0,3,13.0,29.0,10,No,2015-11-12
+EMP0112,Employee_112,Finance,Analyst,32,Female,Rajshahi,PhD,8.0,38600,3.6,2021.0,0,,35.0,1,Yes,2019-07-24
+EMP0086,Employee_086,Engineering,Engineering Manager,41,Female,Khulna,BSc,20.0,140600,3.3,2019.0,2,11.0,9.0,1,No,2018-06-29
+EMP0093,Employee_093,Finance,Analyst,30,Female,Dhaka,BSc,10.0,45100,2.7,2021.0,5,26.0,22.0,10,Yes,2018-10-12
+EMP0166,Employee_166,HR,HR Director,34,Male,Chittagong,MSc,11.0,109600,3.7,2020.0,4,9.0,9.0,8,No,2021-10-11
+EMP0215,Employee_215,Finance,Finance Manager,51,FEMALE,Dhaka ,BSc,29.0,,3.9,2022.0,5,20.0,30.0,5,No,2023-10-16
+EMP0169,Employee_169,Engineering,Engineering Manager,0,Female,Rajshahi,MSc,20.0,148800,3.3,2022.0,5,36.0,27.0,5,No,2021-11-25
+EMP0072,Employee_072,Data Science,Data Analyst,45,Female,Chittagong,BSc,,,2.6,2023.0,2,11.0,13.0,5,No,2017-12-01
+EMP0203,Employee_203,Engineering,Tech Lead,45,Female,Dhaka ,PhD,,,3.2,2023.0,4,20.0,-3.0,1,No,2023-04-19
+EMP0088,Employee_088,Engineering,Junior Engineer,27,Male,Rajshahi,MSc,3.0,42900,3.1,2021.0,5,5.0,1.0,3,No,2018-07-29
+EMP0059,Employee_059,Sales,Sales Executive,42,Male,Dhaka,,20.0,52300,4.0,2021.0,5,31.0,7.0,9,No,20/05/2017
+EMP0008,Employee_008,Finance,Senior Analyst,23,Male,Chittagong,MSc,3.0,62200,3.6,2022.0,0,75.0,22.0,9,Yes,2015-04-16
+EMP0158,Employee_158,Data Science,Senior DS,38,Female,Khulna,MSc,14.0,91400,2.6,2023.0,4,,20.0,8,No,2021-06-13
+EMP0212,Employee_212,Sales,Regional Head,48,Male,Khulna,MSc,28.0,,2.9,2021.0,5,76.0,-8.0,3,Yes,2023-09-01
+EMP0019,Employee_019,Engineering,Junior Engineer,51,Male,Sylhet,BSc,30.0,75900,3.7,2021.0,3,78.0,37.0,5,No,2015-09-28
+EMP0187,Employee_187,data science,DS Lead,43,Female,Sylhet,MSc,20.0,128200,,2020.0,0,,7.0,6,Yes,2022-08-22
+EMP0065,Employee_065,HR,HR Director,46,Male,Chittagong,BSc,22.0,116400,1.7,2022.0,4,40.0,3.0,11,No,2017-08-18
+EMP0033,Employee_033,Sales,Sales Executive,51,Female,Sylhet,BSc,30.0,71100,1.5,2019.0,1,9.0,20.0,2,No,2016-04-25
+EMP0180,Employee_180,Engineering,Senior Engineer,43,Female,Dhaka,PhD,22.0,86400,2.7,2023.0,0,48.0,4.0,11,No,09/05/2022
+EMP0011,Employee_011,Sales,Sales Manager,44,Female,Rajshahi,BSc,24.0,,,2022.0,5,23.0,17.0,2,Yes,2015-05-31
+EMP0045,Employee_045,HR,HR Manager,48,Male,Rajshahi,BSc,24.0,86600,3.4,2023.0,1,51.0,1.0,7,No,2016-10-22
+EMP0074,Employee_074,HR,HR Executive,39,Male,Khulna,BSc,,48100,2.1,2019.0,0,43.0,17.0,8,Yes,2017-12-31
+EMP0121,Employee_121,HR,HR Manager,5,Male,Dhaka,BSc,16.0,74900,3.2,2021.0,5,37.0,13.0,6,No,2019-12-06
+EMP0176,Employee_176,HR,HR Director,41,Female,Dhaka,BSc,18.0,121200,2.8,2021.0,1,62.0,16.0,1,No,2022-03-10
+EMP0119,Employee_119,Engineering,Engineering Manager,48,Female,Rajshahi,MSc,24.0,151300,2.3,2020.0,3,51.0,27.0,3,No,2019-11-06
+EMP0040,Employee_040,HR,HR Manager,42,Female,Dhaka,BSc,21.0,81800,4.1,2021.0,5,74.0,13.0,8,No,2016-08-08
+EMP0192,Employee_192,Data Science,Senior DS,47,Female,Dhaka,BSc,26.0,,3.5,2022.0,0,59.0,23.0,11,No,2022-11-05
+EMP0174,Employee_174,Sales,Regional Head,36,Male,Rajshahi,BSc,14.0,130100,,2020.0,1,71.0,7.0,1,No,2022-02-08
+EMP0058,Employee_058,HR,HR Manager,24,Male,Khulna,MSc,2.0,54700,1.8,2019.0,4,56.0,33.0,11,Yes,2017-05-05
+EMP0118,Employee_118,Finance,Analyst,26,Male,Sylhet,BSc,4.0,36100,2.2,2019.0,4,73.0,26.0,11,Yes,2019-10-22
+EMP0139,Employee_139,HR,HR Manager,38,Male,  Sylhet  ,BSc,14.0,74900,4.0,2022.0,3,22.0,25.0,7,No,2020-09-01
+EMP0149,Employee_149,HR,HR Director,45,Female,Khulna,BSc,22.0,122600,2.8,2023.0,1,72.0,25.0,4,Yes,2021-01-29
+EMP0024,Employee_024,Engineering,Tech Lead,45,Male,Dhaka,BSc,22.0,,3.1,2020.0,0,30.0,-5.0,8,No,2015-12-12
+EMP0024,Employee_024,Engineering,Tech Lead,45,Male,Dhaka,BSc,22.0,119800,3.1,2020.0,0,30.0,29.0,8,No,12/12/2015
+EMP0059,Employee_059,Sales,Sales Executive,42,Male,Dhaka,,20.0,52300,4.0,2021.0,5,31.0,7.0,9,No,20/05/2017
+EMP0156,Employee_156,Engineering,Engineering Manager,39,Female,Rajshahi,PhD,,139000,2.5,2022.0,3,77.0,28.0,4,No,2021-05-14
+EMP0204,Employee_204,Engineering,Tech Lead,51,Female,Dhaka,MSc,,125600,4.2,2019.0,0,34.0,27.0,6,No,2023-05-04
+EMP0134,Employee_134,Data Science,Data Analyst,31,Female,Khulna,BSc,11.0,62600,2.5,2021.0,4,,38.0,5,No,2020-06-18
+EMP0097,Employee_097,Data Science,Junior DS,51,Male,Khulna,BSc,29.0,,3.7,2020.0,3,13.0,20.0,10,No,2018-12-11
+EMP0132,Employee_132,Data Science,Data Analyst,32,Female,Dhaka,BSc,12.0,63900,2.8,2019.0,4,77.0,9.0,3,No,2020-05-19
+EMP0140,Employee_140,Data Science,Junior DS,26,Male,Sylhet,BSc,6.0,43700,,2021.0,1,71.0,20.0,5,No,2020-09-16
+EMP0170,Employee_170,Sales,Sales Manager,34,Female,Chittagong ,MSc,11.0,71700,,2022.0,1,25.0,10.0,4,No,2021-12-10
+EMP0171,Employee_171,Engineering,Senior Engineer,31,Female,Khulna,BSc,8.0,BDT 71600,3.4,2022.0,0,12.0,33.0,3,Yes,2021-12-25
+EMP0157,Employee_157,Sales,Sales Manager,42,Female,Chittagong,MSc,21.0,86000,2.4,2020.0,5,12.0,37.0,8,No,2021-05-29
+EMP0107,Employee_107,Finance,Analyst,39,Female,Khulna,BSc,19.0,57400,3.5,2020.0,4,54.0,39.0,6,No,2019-05-10
+EMP0133,Employee_133,Sales,Regional Head,27,Male,Dhaka,MSc,7.0,120900,4.2,2022.0,2,61.0,22.0,10,No,2020-06-03
+EMP0116,Employee_116,Data Science,Junior DS,31,Male,Dhaka,BSc,7.0,51400,3.4,2019.0,3,78.0,34.0,9,No,2019-09-22
+EMP0213,Employee_213,Finance,Finance Manager,34,Female,Dhaka,BSc,11.0,105200,3.7,2020.0,5,36.0,27.0,10,No,2023-09-16
+EMP0175,Employee_175,Sales,Sales Manager,42,male,Dhaka,BSc,20.0,78900,2.7,2023.0,5,48.0,14.0,7,No,23/02/2022
+EMP0194,Employee_194,HR,HR Executive,35,Female,Rajshahi,,12.0,44500,4.8,2021.0,5,34.0,4.0,9,Yes,2022-12-05
+EMP0105,Employee_105,Engineering,Engineering Manager,25,female,Dhaka,BSc,2.0,123300,3.3,2020.0,0,41.0,3.0,4,No,2019-04-10
+EMP0025,Employee_025,Engineering,Junior Engineer,25,Female,Dhaka,MSc,2.0,BDT 37000,2.8,2019.0,2,76.0,13.0,2,No,2015-12-27
+EMP0047,Employee_047,HR,HR Manager,43,Male,Sylhet,BSc,20.0,BDT 74800,2.1,2021.0,0,29.0,32.0,9,Yes,2016-11-21
+EMP0189,Employee_189,Engineering,Senior Engineer,43,Male,Chittagong,BSc,20.0,88300,2.7,2021.0,5,73.0,0.0,4,Yes,2022-09-21
+EMP0131,Employee_131,Finance,Finance Manager,26,Male,Dhaka,BSc,4.0,103400,3.4,2019.0,4,14.0,20.0,6,No,2020-05-04
+EMP0066,Employee_066,Sales,Regional Head,27,Male,Dhaka,BSc,7.0,120000,2.2,2022.0,5,34.0,11.0,2,No,2017-09-02
+EMP0049,Employee_049,HR,HR Manager,26,Male,Khulna,,,60200,3.3,2022.0,1,79.0,30.0,5,Yes,2016-12-21
+EMP0120,Employee_120,HR,HR Director,43,Male,Rajshahi,BSc,23.0,116000,4.0,2022.0,1,53.0,21.0,7,No,2019-11-21
+EMP0207,Employee_207,Data Science,DS Lead,40,Female,Sylhet,BSc,,126500,2.8,2021.0,0,69.0,29.0,11,Yes,2023-06-18
+EMP0081,Employee_081,Data Science,Junior DS,25,M,Rajshahi,BSc,,37800,3.6,2021.0,3,65.0,18.0,5,No,15/04/2018
+EMP0015,Employee_015,Sales,Sales Manager,35,Male,Sylhet,MSc,11.0,72400,2.9,2019.0,3,39.0,14.0,11,Yes,2015-07-30
+EMP0218,Employee_218,Sales,Sales Manager,36,Female,Sylhet,MSc,13.0,74500,4.1,2023.0,1,40.0,24.0,1,No,2023-11-30
+EMP0052,Employee_052,Sales,Sales Executive,45,Female,Rajshahi,MSc,25.0,,,2020.0,1,72.0,15.0,8,No,2017-02-04
+EMP0037,Employee_037,Finance,Senior Analyst,37,Male,Rajshahi,MSc,13.0,73800,2.8,2020.0,2,19.0,1.0,5,No,24/06/2016
+EMP0075,Employee_075,Data Science,Senior DS,50,Female,Khulna,,27.0,,2.5,2021.0,3,17.0,28.0,3,No,2018-01-15
+EMP0029,Employee_029,Sales,Regional Head,41,Female,Sylhet,BSc,,132900,,2023.0,4,32.0,6.0,8,Yes,2016-02-25
+EMP0206,Employee_206,Finance,Senior Analyst,33,MALE,Sylhet,MSc,9.0,67200,2.8,2022.0,4,9.0,4.0,1,No,2023-06-03
+EMP0001,Employee_001,Sales,Regional Head,45,Male,Dhaka,MSc,22.0,136100,,2019.0,3,27.0,20.0,2,No,2015-01-01
+EMP0216,Employee_216,Finance,Senior Analyst,28,Female,  Rajshahi  ,MSc,8.0,61400,3.6,2021.0,2,42.0,7.0,5,No,2023-10-31
+EMP0100,Employee_100,Engineering,Senior Engineer,36,Male,Sylhet,,14.0,80600,1.9,2021.0,0,46.0,6.0,11,Yes,2019-01-25
+EMP0195,Employee_195,Sales,Sales Executive,43,Female,Sylhet,MSc,23.0,63100,3.1,2023.0,3,59.0,19.0,10,Yes,2022-12-20
+EMP0060,Employee_060,HR,HR Director,32,Female,Khulna,BSc,11.0,110500,3.6,2023.0,4,33.0,20.0,6,No,2017-06-04
+EMP0092,Employee_092,Engineering,Engineering Manager,23,Male,Dhaka,BSc,2.0,121800,4.6,2019.0,3,17.0,8.0,3,No,2018-09-27
+EMP0083,Employee_083,Data Science,Junior DS,23,Male,Rajshahi,BSc,2.0,43400,2.5,2020.0,4,60.0,4.0,10,No,2018-05-15
+EMP0071,Employee_071,Engineering,Senior Engineer,38,Male,Sylhet,BSc,15.0,78100,3.3,2019.0,0,79.0,30.0,11,Yes,2017-11-16
+EMP0148,Employee_148,Finance,Senior Analyst,39,Female,Khulna,BSc,15.0,80100,2.9,2023.0,0,,20.0,7,No,2021-01-14
+EMP0142,Employee_142,Data Science,Junior DS,39,Male,Khulna,PhD,15.0,53100,3.9,2023.0,4,43.0,36.0,6,No,2020-10-16
+EMP0101,Employee_101,Sales,Regional Head,24,Female,Sylhet,BSc,,113300,,2023.0,0,76.0,15.0,11,No,2019-02-09
+EMP0061,Employee_061,HR,HR Director,48,Female,Dhaka,PhD,24.0,125300,3.4,2021.0,0,32.0,33.0,2,No,2017-06-19
+EMP0163,Employee_163,Data Science,DS Lead,41,Female,Rajshahi,MSc,17.0,126800,4.0,2019.0,1,64.0,1.0,1,No,2021-08-27
+EMP0057,Employee_057,Sales,Sales Executive,26,Male,Khulna,MSc,5.0,35300,3.5,2020.0,4,,12.0,6,No,2017-04-20
+EMP0136,Employee_136,Finance,Finance Manager,25,Female,Sylhet,MSc,2.0,101000,2.8,2023.0,0,,0.0,5,No,2020-07-18
+EMP0064,Employee_064,H.R,HR Executive,23,Male,Dhaka,BSc,0.0,30300,4.0,2022.0,3,20.0,14.0,4,No,2017-08-03
+EMP0032,Employee_032,Sales,Regional Head,150,Female,Dhaka,MSc,24.0,135600,4.6,2020.0,1,16.0,14.0,9,No,2016-04-10
+EMP0044,Employee_044,HR,HR Executive,48,Male,Dhaka,BSc,24.0,,3.2,2022.0,4,27.0,24.0,7,No,2016-10-07
+EMP0202,Employee_202,Finance,Finance Manager,25,Female,Chittagong,MSc,1.0,101100,3.4,,0,7.0,18.0,11,No,2023-04-04
+EMP0099,Employee_099,HR,HR Executive,34,Female,Chittagong,MSc,11.0,42200,3.7,2019.0,3,14.0,27.0,7,No,2019-01-10
+EMP0098,Employee_098,HR,HR Manager,35,M,Rajshahi,PhD,15.0,73800,4.0,2022.0,2,,8.0,5,No,2018-12-26
+EMP0006,Employee_006,HR,HR Executive,48,Female,Sylhet,MSc,25.0,58100,2.3,2021.0,4,19.0,10.0,9,No,2015-03-17
+EMP0020,Employee_020,Sales,Sales Manager,29,Male,Rajshahi,BSc,7.0,67700,3.0,2023.0,5,70.0,17.0,2,No,2015-10-13
+EMP0147,Employee_147,Sales,Sales Executive,34,Male,Rajshahi,MSc,10.0,44600,,2021.0,1,50.0,10.0,7,No,2020-12-30
+EMP0042,Employee_042,Engineering,Tech Lead,34,Female,Dhaka,PhD,13.0,105000,3.3,2020.0,3,47.0,17.0,3,No,2016-09-07
+EMP0104,Employee_104,HR,HR Executive,40,Female,Dhaka,MSc,17.0,47100,3.7,2022.0,3,30.0,3.0,9,No,2019-03-26
+EMP0034,Employee_034,Engineering,Engineering Manager,36,Female,Dhaka,BSc,15.0,140600,4.6,2019.0,3,52.0,34.0,6,No,2016-05-10
+EMP0089,Employee_089,Sales,Sales Executive,34,Male,Chittagong,MSc,10.0,34600,,2020.0,1,48.0,10.0,1,No,2018-08-13
+EMP0152,Employee_152,Engineering,Senior Engineer,47,Female,Khulna,BSc,24.0,,2.8,2020.0,2,43.0,17.0,5,Yes,2021-03-15
+EMP0027,Employee_027,Finance,Finance Manager,48,Female,Rajshahi,BSc,26.0,126400,2.6,2021.0,3,70.0,2.0,9,Yes,2016-01-26
+EMP0220,Employee_220,Engineering,Senior Engineer,30,Female,Rajshahi,BSc,7.0,71100,3.7,2021.0,4,70.0,1.0,10,No,2023-12-31
+EMP0164,Employee_164,Engineering,Senior Engineer,39,Male,Chittagong,BSc,19.0,88500,3.0,2023.0,4,6.0,28.0,3,No,2021-09-11
+EMP0201,Employee_201,HR,HR Manager,27,Female,Sylhet,BSc,5.0,61000,2.8,2020.0,0,12.0,14.0,3,No,2023-03-20
+EMP0117,Employee_117,HR,HR Director,29,Female,Dhaka,BSc,7.0,104400,3.4,2020.0,2,59.0,6.0,4,No,2019-10-07
+EMP0179,Employee_179,Data Science,Senior DS,38,Male,Sylhet,MSc,,91800,4.3,2021.0,1,6.0,18.0,1,No,2022-04-24
+EMP0048,Employee_048,Data Science,Data Analyst,29,Male,Chittagong,BSc,8.0,63300,3.8,2022.0,2,40.0,35.0,2,No,2016-12-06
+EMP0138,Employee_138,HR,HR Manager,25,Female,Khulna,,3.0,59600,3.4,2022.0,5,11.0,-10.0,8,Yes,2020-08-17
+EMP0178,Employee_178,Engineering,Senior Engineer,37,Male,Chittagong,BSc,13.0,79300,4.2,2021.0,0,74.0,23.0,4,No,2022-04-09
+EMP0036,Employee_036,Data Science,DS Lead,27,Female,Sylhet,BSc,3.0,113000,3.1,2020.0,1,48.0,26.0,4,No,2016-06-09
+EMP0041,Employee_041,Sales,Sales Executive,27,Male,Khulna,BSc,3.0,30500,3.3,2023.0,4,,19.0,5,No,2016-08-23
+EMP0023,Employee_023,Sales,Regional Head,51,Female,Rajshahi,BSc,29.0,BDT 154000,3.9,2022.0,1,7.0,23.0,1,No,2015-11-27
+EMP0110,Employee_110,Finance,Finance Manager,51,Male,Sylhet,BSc,27.0,131200,4.1,2019.0,4,64.0,38.0,10,Yes,2019-06-24
+EMP0016,Employee_016,HR,HR Executive,43,Male,Rajshahi,MSc,23.0,48700,4.1,2020.0,4,48.0,21.0,8,No,2015-08-14
+EMP0095,Employee_095,Engineering,Engineering Manager,33,Male,Chittagong,BSc,13.0,135900,3.8,2023.0,0,13.0,8.0,11,No,11/11/2018
+EMP0217,Employee_217,Sales,Sales Executive,29,Male,Khulna,MSc,9.0,39800,4.1,2019.0,5,18.0,39.0,4,Yes,15/11/2023
+EMP0162,Employee_162,Engineering,Engineering Manager,49,Male,Dhaka,MSc,25.0,152200,2.4,2023.0,3,53.0,0.0,3,No,2021-08-12
+EMP0186,Employee_186,Sales,Sales Executive,49,Female,Sylhet,BSc,28.0,68600,,2020.0,0,48.0,12.0,1,No,2022-08-07
+EMP0181,Employee_181,Engineering,Junior Engineer,27,Female,Chittagong,BSc,4.0,42300,2.5,2023.0,3,6.0,31.0,11,No,2022-05-24
+EMP0151,Employee_151,Engineering,Tech Lead,45,Female,Rajshahi,MSc,22.0,114100,4.5,2023.0,0,36.0,33.0,8,Yes,2021-02-28
+EMP0076,Employee_076,HR,HR Manager,49,Male,Sylhet,BSc,28.0,83600,2.1,2020.0,1,35.0,5.0,6,No,2018-01-30
+EMP0112,Employee_112,Finance,Analyst,32,Female,Rajshahi,PhD,8.0,38600,3.6,2021.0,0,78.0,35.0,1,Yes,2019-07-24
+EMP0144,Employee_144,Sales,Regional Head,46,Male,Dhaka,BSc,26.0,,,2020.0,2,79.0,35.0,9,No,2020-11-15
+EMP0094,Employee_094,Finance,Analyst,32,Male,Dhaka,BSc,11.0,43400,4.6,2021.0,0,25.0,18.0,2,No,2018-10-27
+EMP0082,Employee_082,Engineering,Senior Engineer,50,Male,Rajshahi,BSc,29.0,98600,3.3,2023.0,3,46.0,30.0,8,No,2018-04-30
+EMP0111,Employee_111,Engineering,Tech Lead,48,Male,Khulna,BSc,25.0,,3.9,2019.0,0,43.0,28.0,6,Yes,2019-07-09
+EMP0039,Employee_039,Engineering,Engineering Manager,36,Male,Chittagong,BSc,16.0,143800,3.2,2020.0,1,52.0,17.0,1,Yes,2016-07-24
+EMP0018,Employee_018,Data Science,Data Analyst,38,Male,Rajshahi,BSc,17.0,76500,,2019.0,3,76.0,11.0,6,Yes,2015-09-13
+EMP0188,Employee_188,Engineering,Senior Engineer,26,Male,  Khulna  ,MSc,2.0,-5000,4.6,2021.0,2,40.0,22.0,4,No,06/09/2022
+EMP0051,Employee_051,Sales,Regional Head,27,Female,Khulna,BSc,7.0,116600,,2020.0,5,19.0,0.0,8,No,2017-01-20
+EMP0043,Employee_043,Sales,Sales Executive,38,Male,Khulna,BSc,14.0,44200,2.9,2023.0,2,25.0,9.0,10,No,2016-09-22
+EMP0114,Employee_114,Finance,Finance Manager,24,Female,Khulna,MSc,4.0,BDT 103700,1.9,2020.0,3,23.0,38.0,2,No,2019-08-23
+EMP0146,Employee_146,Sales,Regional Head,27,Female,Sylhet,,6.0,114400,4.3,2021.0,5,64.0,34.0,1,No,2020-12-15
+EMP0073,Employee_073,DataScience,Data Analyst,24,Male,Rajshahi,BSc,3.0,56400,2.7,2019.0,0,78.0,19.0,1,Yes,2017-12-16
+EMP0135,Employee_135,Finance,Finance Manager,46,Female,Sylhet,MSc,26.0,,3.1,2019.0,0,,4.0,6,No,03/07/2020
+EMP0197,Employee_197,Finance,Finance Manager,48,Female,Sylhet,BSc,28.0,132800,2.1,2022.0,1,16.0,39.0,9,No,2023-01-19
+EMP0125,Employee_125,Engineering,Senior Engineer,46,Male,Dhaka,PhD,22.0,92400,4.0,2020.0,3,,4.0,10,No,2020-02-04
+EMP0182,Employee_182,Finance,Senior Analyst,25,Female,Khulna,PhD,3.0,61800,3.6,2023.0,2,39.0,0.0,11,No,2022-06-08
+EMP0210,Employee_210,Sales,Regional Head,31,Female,Chittagong,BSc,11.0,123500,,2019.0,1,74.0,9.0,3,No,2023-08-02
+EMP0172,Employee_172,Engineering,Engineering Manager,29,Male,Sylhet,BSc,6.0,126800,5.0,2022.0,1,76.0,7.0,4,Yes,2022-01-09
+EMP0080,Employee_080,Sales,Sales Manager,40,Male,Sylhet,BSc,19.0,82900,,2021.0,0,46.0,22.0,9,Yes,2018-03-31
+EMP0115,Employee_115,Engineering,Junior Engineer,41,Female,Khulna,BSc,18.0,56700,3.5,2021.0,5,40.0,36.0,5,No,2019-09-07
+EMP0031,Employee_031,Finance,Analyst,44,Male,Sylhet,MSc,23.0,,2.2,2020.0,3,29.0,8.0,10,No,26/03/2016
+EMP0004,Employee_004,Data Science,Senior DS,43,Female,Dhaka ,MSc,21.0,99600,,2022.0,2,58.0,8.0,4,Yes,2015-02-15
+EMP0122,Employee_122,Sales,Sales Executive,35,Male,Chittagong,BSc,12.0,46700,3.7,2020.0,1,,6.0,8,No,21/12/2019
+EMP0063,Employee_063,Data Science,DS Lead,48,Female,Sylhet,BSc,24.0,,4.5,2022.0,5,12.0,24.0,5,No,2017-07-19
+EMP0106,Employee_106,Data Science,Junior DS,45,Male,Khulna,,23.0,BDT 71800,2.1,2021.0,2,72.0,38.0,4,No,2019-04-25
+EMP0092,Employee_092,Engineering,Engineering Manager,23,Male,Dhaka,BSc,2.0,121800,4.6,2019.0,3,17.0,8.0,3,No,2018-09-27
+EMP0198,Employee_198,Engineering,Engineering Manager,29,Male,Khulna,MSc,7.0,125100,2.6,2021.0,5,21.0,30.0,4,Yes,2023-02-03
+EMP0073,Employee_073,DataScience,Data Analyst,24,Male,Rajshahi,BSc,3.0,56400,2.7,2019.0,0,78.0,19.0,1,Yes,2017-12-16
+EMP0005,Employee_005,Data Science,DS Lead,23,Female,Sylhet,BSc,0.0,110900,3.8,2023.0,4,75.0,0.0,4,No,2015-03-02
+EMP0190,Employee_190,Finance,Finance Manager,45,Male,Chittagong,BSc,21.0,,2.9,2020.0,4,35.0,23.0,11,No,2022-10-06
+EMP0124,Employee_124,Finance,Finance Manager,51,MALE,Khulna,MSc,29.0,,3.2,2023.0,4,52.0,21.0,5,No,2020-01-20
+EMP0165,Employee_165,Finance,Senior Analyst,26,Male,Chittagong,MSc,6.0,62800,3.2,2019.0,0,64.0,32.0,6,No,26/09/2021
+EMP0026,Employee_026,Finance,Analyst,34,Female,Dhaka,MSc,12.0,43500,,2021.0,0,52.0,5.0,7,No,2016-01-11
+EMP0067,Employee_067,HR,HR Manager,35,Female,Khulna,BSc,13.0,68600,2.7,2019.0,0,22.0,31.0,3,No,2017-09-17
+EMP0084,Employee_084,Data Science,DS Lead,23,Male,Rajshahi,MSc,3.0,106900,3.8,2020.0,2,40.0,18.0,10,No,2018-05-30
+EMP0091,Employee_091,Finance,Finance Manager,23,Male,Sylhet,MSc,3.0,105300,3.2,2023.0,1,51.0,14.0,8,Yes,2018-09-12
+EMP0077,Employee_077,Engineering,Engineering Manager,42,Female,Rajshahi,BSc,21.0,145000,2.4,2022.0,2,75.0,31.0,3,No,2018-02-14
+EMP0183,Employee_183,ENGINEERING,Senior Engineer,34,Female,Dhaka,BSc,10.0,73100,2.8,2022.0,0,34.0,22.0,9,No,23/06/2022
+EMP0155,Employee_155,Finance,Analyst,39,Male,Chittagong,BSc,17.0,54400,2.1,2022.0,5,7.0,28.0,4,No,2021-04-29
+EMP0010,Employee_010,Data Science,Senior DS,24,Female,Dhaka,BSc,2.0,79700,3.8,2019.0,0,25.0,3.0,7,No,2015-05-16
+EMP0159,Employee_159,ENGINEERING,Junior Engineer,47,Female,Dhaka,BSc,26.0,,3.2,2022.0,3,45.0,12.0,2,No,2021-06-28
+EMP0028,Employee_028,H.R,HR Director,38,Female,Dhaka,BSc,18.0,117200,2.1,2022.0,1,74.0,15.0,9,No,2016-02-10
+EMP0055,Employee_055,Finance,Analyst,44,Male,Rajshahi,,23.0,,3.4,2020.0,5,23.0,5.0,11,Yes,2017-03-21
+EMP0030,Employee_030,Sales,Sales Manager,27,Male,Khulna,BSc,4.0,60500,3.7,2022.0,1,30.0,13.0,11,No,2016-03-11
+EMP0021,Employee_021,HR,HR Executive,27,Male,Khulna,MSc,7.0,38100,3.5,2023.0,3,50.0,34.0,11,No,28/10/2015
